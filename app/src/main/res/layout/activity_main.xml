@@ -10,7 +10,7 @@
     <com.google.android.material.textview.MaterialTextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Говно"
+        android:text="Ты пидор"
         android:textSize="30dp"
         android:gravity="center">
     </com.google.android.material.textview.MaterialTextView>
