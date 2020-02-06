@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_search"
+        android:title="Поиск"
+        android:icon="@drawable/search" />
+    <item android:id="@+id/action_settings"
+        android:title="Меню"
+        android:icon="@drawable/menu" />
+    <item android:id="@+id/action_navigation"
+        android:title="Навигация"
+        android:icon="@drawable/add" />
+</menu>
